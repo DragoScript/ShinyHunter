@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/add_icon_dark.xml" value="0.29" />
+        <entry key="app/src/main/res/drawable/add_icon_light.xml" value="0.29" />
+        <entry key="app/src/main/res/layout/hunt_counter_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/hunt_counter_toolbar.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/hunt_settings_menu.xml" value="0.3484375" />
+        <entry key="app/src/main/res/layout/hunt_settings_toolbar.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/main_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/main_toolbar.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/settings_about.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/settings_about_credits.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/settings_about_credits_toolbar.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/settings_about_toolbar.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/settings_appversion.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/settings_appversion_toolbar.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/settings_menu.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/settings_theme.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/settings_theme_toolbar.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/settings_toolbar.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/start_new_shinyhunt.xml" value="0.3484375" />
+        <entry key="app/src/main/res/menu/start_shiny_hunt.xml" value="0.3484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

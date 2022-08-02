@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShinyHunter</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="go_to_settings">go to settings</string>
+    <string name="start_a_new_shiny_hunt">Start a new shiny hunt</string>
+    <string name="settings">Settings</string>
+    <string name="hunt_settings">Hunt Settings</string>
+    <string name="app_version">App Version</string>
+    <string name="theme">Theme</string>
+    <string name="about">About</string>
+    <string name="shinyhunter_is_an_app_that_helps_users_keep_track_on_how_many_times_they_ve_soft_reset">ShinyHunter is an app that helps users keep track on how many times they\'ve soft reset</string>
+    <string name="credits">Credits</string>
+    <string name="copyright">Copyright</string>
+    <string name="github_repo">GitHub repo</string>
+    <string name="dragoscript">DragoScript</string>
+    <string name="author">Author</string>
+    <string name="contributors">Contributors</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="accent_colour">Accent Colour</string>
+    <string name="choose_icon">Choose Icon</string>
+    <string name="game_name">Game Name:</string>
+    <string name="pokemon_name">Pokémon Name:</string>
+    <string name="soft_reset_counter">Soft Reset Counter</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="icon_will_be_display_here">icon will be display here</string>
+</resources>
